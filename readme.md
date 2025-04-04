@@ -36,7 +36,7 @@ project-root/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/zip-file-uploader.git
+git clone https://github.com/HaysamSalik/zip-file-uploader.git
 cd zip-file-uploader
 ```
 
@@ -84,7 +84,7 @@ Then go to: [http://localhost:8000/index.html](http://localhost:8000/index.html)
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name](https://github.com/haysamms)
+Developed by [Haysam Salik](https://github.com/haysamms)
 
 ## 📄 License
 
