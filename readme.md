@@ -80,7 +80,7 @@ Then go to: [http://localhost:8000/index.php](http://localhost:8000/index.php)
 
 ## 🧑‍💻 Author
 
-Developed by [Haysam Salik](https://github.com/haysamms)
+Developed by [Haysam Salik](https://github.com/HaysamSalik)
 
 ## 📄 License
 
