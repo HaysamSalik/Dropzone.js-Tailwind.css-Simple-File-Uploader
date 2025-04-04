@@ -11,10 +11,6 @@ A modern web-based ZIP file uploader with chunked upload support, built using **
 - ✅ Restricts uploads to `.zip` files only
 - ✅ Detailed file preview and status display
 
-## 📸 Preview
-
-![screenshot](screenshot.png) *(Add a screenshot of your interface here)*
-
 ## 🚀 Getting Started
 
 ### Requirements
@@ -27,7 +23,7 @@ A modern web-based ZIP file uploader with chunked upload support, built using **
 
 ```
 project-root/
-├── index.html          # Main front-end UI
+├── index.php          # Main front-end UI
 ├── upload.php          # Handles file uploads
 ├── uploads/            # Destination for uploaded files
 ├── README.md           # This file
@@ -51,13 +47,13 @@ chmod 777 uploads
 
 ### 3. Run the App
 
-Open `index.html` in your browser or serve it via a local server:
+Open `index.php` in your browser or serve it via a local server:
 
 ```bash
 php -S localhost:8000
 ```
 
-Then go to: [http://localhost:8000/index.html](http://localhost:8000/index.html)
+Then go to: [http://localhost:8000/index.php](http://localhost:8000/index.php)
 
 ### 4. Upload a File
 
